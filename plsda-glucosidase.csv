@@ -1,0 +1,27 @@
+
+Call:
+ plsda(X = X, Y = Y, ncomp = 6) 
+
+ PLS-DA (regression mode) with 6 PLS-DA components. 
+ You entered data X of dimensions: 31 8 
+ You entered data Y with 2 classes. 
+
+ No variable selection. 
+
+ Main numerical outputs: 
+ -------------------- 
+ loading vectors: see object$loadings 
+ variates: see object$variates 
+ variable names: see object$names 
+
+ Functions to visualise samples: 
+ -------------------- 
+ plotIndiv, plotArrow, cim 
+
+ Functions to visualise variables: 
+ -------------------- 
+ plotVar, plotLoadings, network, cim 
+
+ Other functions: 
+ -------------------- 
+ auc 

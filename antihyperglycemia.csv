@@ -1,0 +1,32 @@
+Number,Name_Thai,Name_Sci,Name_Short,Emax_amylase_2.75mcgml,Emax_glucosidase_0.67mcgml,IC50_amylase,IC50_glucosidase,Bioactivity_class_amylase,Bioactivity_class_glucosidase,Alkaloids,Antaquinones,Carotenoids,flavonoids,Reducing_sugars,Saponins,Tannins,Xanthones
+1,_____,Garcinia_cowa_Roxb_ex_DC,G_cowa,99.6,51.1,0.13,0.63,active,active,0,0,0,0,0,2,2,2
+2,_________,Polyalthia_debilis_(Pierre)_Finet &_Gapnep.,P_debilis,99.5,50.0,0.14,0.72,active,active,3,0,0,5,3,0,0,0
+3,______(__),Polyalthia_evecta_(Pierre)_Finet _Gapnep_leaf,P_evecta_leaf,93.9,52.0,0.14,0.57,active,active,0,0,0,3,0,3,2,0
+4,______(Rhizome),Polyalthia_evecta_(Pierre)_Finet_&_Gapnep_Rhaizome,P_evecta_Rhizome,35.8,50.6,,0.63,inactive,active,3,0,0,5,3,0,0,5
+5,__________,Erythroxylum_cuneatum_(Miq)_Kurz,E_cuneatum,86.5,39.6,0.17,,active,inactive,3,0,0,2,0,3,3,0
+6,_____,Parinari_anamense_Hance,P_anamense,35.1,54.5,,0.52,inactive,active,3,0,0,3,3,3,2,0
+7,________,Aganosma_marginata_Roxb_G_Don,A_marginata,16.0,37.6,,,inactive,inactive,0,0,0,2,0,3,3,0
+8,________,Ellipeiopsis_cherrevensis_Pierre_ex_Finet_&_Gapnep_REEr,E_cherrevensis,77.8,39.8,0.18,,active,inactive,5,0,1,2,0,3,0,0
+9,_______,Flacourtia_indica_Burmf_Merr,F_indica,84.4,39.1,0.16,,active,inactive,3,1,0,3,3,2,2,0
+10,_________,Harrisonia_perforata_Blanco_Merr,H_perforata,35.2,39.9,,,inactive,inactive,3,0,0,2,0,3,0,0
+11,_______,Rhodamnia_dumetorum_DC_Merr_&_LM_Perry,R_dumetorum,30.3,10.5,,,inactive,inactive,0,0,0,0,0,4,0,0
+12,_______________,Cassytha_filiformis_L.,C_filiformis,35.6,36.7,,,inactive,inactive,0,0,0,4,0,0,0,5
+13,_______,Pinus_Kesiya,P_Kesiya,94.9,52.3,0.11,0.60,active,active,0,0,0,3,0,1,3,0
+14,__________,Abrus_pulchellus_ssp_mollis ,A_pulchellus,24.7,15.9,,,inactive,inactive,0,0,0,3,0,4,0,0
+15,________,Tetracera loureiri_Finet_&_Gagnep_Pierre_ex_Craib,T_loureiri,47.3,20.5,,,inactive,inactive,0,0,0,2,0,4,0,0
+16,______,Rhus_succedanea ,R_succedanea,29.9,31.6,,,inactive,inactive,3,0,0,1,0,4,0,5
+17,__,Rhus_javanica,R_javanica,82.1,38.9,0.14,,active,inactive,0,0,0,2,0,5,0,0
+18,______,Cratoxylum_formosum_spp_Pruniflorum,C_formosum,87.0,50.3,0.17,0.65,active,active,0,0,0,3,0,1,2,0
+19,____,Glochidion_daltonii ,G_daltonii ,27.3,37.6,,,inactive,inactive,0,0,0,0,0,3,2,0
+20,_____________,Bombax_anceps ,B_anceps,13.2,39.1,,,inactive,inactive,0,0,0,3,3,1,1,0
+21,________,Catunaregam_tomentosa,C_tomentosa,21.3,33.9,,,inactive,inactive,0,0,0,3,3,5,2,0
+22,_____(twig),Diospyros_castanea_twig,D_castanea_twig,42.1,29.7,,,inactive,inactive,0,0,0,2,0,3,0,0
+23,_____(__),Diospyros_castanea_leaf,D_castanea_leaf,84.1,20.9,0.16,,active,inactive,0,0,0,3,0,4,0,1
+24,______,Lannea_coromandelica  ,L_coromandelica,29.9,31.4,,,inactive,inactive,0,0,0,3,3,2,2,0
+25,______,Erythrophleum_succirubrum,E_succirubrum,35.4,32.5,,,inactive,inactive,5,0,0,1,0,1,2,0
+26,___________,Terminalia_mucronata ,T_mucronata,95.7,9.7,0.16,,active,inactive,0,0,0,2,0,1,0,0
+27,_____________,Diospyros_winitii,D_winitii,93.3,39.7,0.12,,active,inactive,0,0,0,5,0,3,0,0
+28,_______,Bridelia_insulana,B_insulana,92.3,32.7,0.16,,active,inactive,0,0,0,1,0,2,0,1
+29,_____,Artabotrys_vanprukii,A_vanprukii,27.2,30.8,,,inactive,inactive,5,0,0,1,0,4,2,0
+30,_____,Terminallia_triptera,T_triptera,33.4,32.6,,,inactive,inactive,0,0,0,2,0,5,0,0
+31,_________,Croton_oblongifolius,C_oblongifolius,12.6,53.0,,0.49,inactive,active,3,0,0,3,3,2,2,0

@@ -1,0 +1,10 @@
+,PC,feature,loading,type
+0,PC1,Alkaloids,0.5803369746996728,best
+1,PC2,Alkaloids,0.7560104278129809,best
+2,PC3,Xanthones,0.7211906608066605,best
+3,PC4,Saponins,-0.6494481417904905,best
+4,PC5,Reducing_sugars,0.5334627743398177,best
+5,PC6,flavonoids,-0.6062936259247953,best
+6,PC5,Antaquinones,0.024058829565972623,weak
+7,PC5,Carotenoids,-0.05145749844330549,weak
+8,PC6,Tannins,-0.543202773785842,weak
