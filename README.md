@@ -1,0 +1,11 @@
+### This repository contains data and source code used in the paper
+## Machine Learning and *In Vitro* Chemical Screening of Potential α-Amylase and α-Glucosidase Inhibitors from Thai Indigenous Plants
+**Tarapong Srisongkram**, Sasisom Waithong, Thaweesak Thitimetharoch, Natthida Weerapreeyakul <br>
+Corresponding author: TS (tarasri@kku.ac.th) <br>
+**Nutrients** 14, no. 2: 267. https://doi.org/10.3390/nu14020267
+### Abstract
+Diabetes mellitus is a major predisposing factor for cardiovascular disease and mortality. α-Amylase and α-glucosidase enzymes are the rate-limiting steps for carbohydrate digestion. The inhibition of these two enzymes is clinically used for the treatment of diabetes mellitus. Here, in vitro study and machine learning models were employed for the chemical screening of inhibiting the activity of 31 plant samples on α-amylase and α-glucosidase enzymes. The results showed that the ethanolic twig extract of Pinus kesiya had the highest inhibitory activity against the α-amylase enzyme. The respective ethanolic extract of Croton oblongifolius stem, Parinari anamense twig, and Polyalthia evecta leaf showed high inhibitory activity against the α-glucosidase enzyme. The classification analysis revealed that the α-glucosidase inhibitory activity of Thai indigenous plants was more predictive based on phytochemical constituents, compared with the α-amylase inhibitory activity (1.00 versus 0.97 accuracy score). The correlation loading plot revealed that flavonoids and alkaloids contributed to the α-amylase inhibitory activity, while flavonoids, tannins, and reducing sugars contributed to the α-glucosidase inhibitory activity. In conclusion, the ethanolic extracts of P. kesiya, C. oblongifolius, P. anamense, and P. evecta have the potential for further chemical characterization and the development of anti-diabetic recipes.
+
+
+### If you find this data and source code helpful, please cite us at 
+Srisongkram, Tarapong, Sasisom Waithong, Thaweesak Thitimetharoch, and Natthida Weerapreeyakul. 2022. "Machine Learning and *In Vitro* Chemical Screening of Potential α-Amylase and α-Glucosidase Inhibitors from Thai Indigenous Plants" **Nutrients** 14, no. 2: 267. https://doi.org/10.3390/nu14020267
